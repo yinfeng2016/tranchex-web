@@ -21,7 +21,7 @@ export default function Home() {
         <Introduce></Introduce>
         <Industry></Industry>
         <Experts></Experts>
-        <Holders></Holders>
+
         <Meet></Meet>
         <About></About>
       </Box>
